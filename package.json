@@ -1,0 +1,19 @@
+{
+  "name": "twenty-fifth_lesson",
+  "version": "1.0.0",
+  "description": "todoapp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youniworst/todoApp.git"
+  },
+  "author": "youniworst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youniworst/todoApp/issues"
+  },
+  "homepage": "https://github.com/youniworst/todoApp#readme"
+}
